@@ -1,0 +1,7 @@
+email:recipient.email
+firstName:recipient.firstName||User
+lastName:recipient.lastName||
+company:recipient.company||Company
+domain:email.split('@')[1]||example.com
+date:new Date().toLocaleDateString()
+time:new Date().toLocaleTimeString()
