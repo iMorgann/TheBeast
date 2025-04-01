@@ -87,7 +87,7 @@ Create directories:
 
 ```bash
 # Run the script
-node index.js
+node beast.js
 ```
 
 Follow the interactive prompts to select your sending method, configure threads, cooling times, and other options.
